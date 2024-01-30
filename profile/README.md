@@ -4,7 +4,7 @@
 
 # Roleplay Manager 
 
-<img src="../assets/rpg maker.jpg" width="50%" alt="banner">
+<img src="./rpg maker.jpg" width="50%" alt="banner">
 
 > Welcome to our organization!
 
